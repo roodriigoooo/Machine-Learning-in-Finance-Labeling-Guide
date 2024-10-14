@@ -1,4 +1,4 @@
-# Machine-Learning-in-Finance-Exploration
+# Machine-Learning-in-Finance-Exploration (A work in progress)
 
 ## Project Overview
 
