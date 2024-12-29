@@ -1,8 +1,8 @@
-# Machine-Learning-in-Finance-Exploration (A work in progress)
+# Machine-Learning-in-Finance-Exploration 
 
 ## Project Overview
 
-This repository is a collection of concepts and their practical implementation from the ML Applied to Finance field, inspired mainly by key literature and recent prominent works such as *Advances in Financial Machine Learning* by **Marcos López de Prado**. 
+This repository is a collection of concepts and their practical implementation from the ML Applied to Finance field, inspired mainly by key literature and recent prominent works such as *Advances in Financial Machine Learning* and *Artificial Intelligence in AI* by **Marcos López de Prado** and **Yves Hilpisch**. 
 
 ## Project Goals 
 
@@ -14,11 +14,9 @@ This repository is a collection of concepts and their practical implementation f
 
 4. Real-life Applications: Apply the explored concepts to real-world financial scenarios to demonstrate practical value.
 
-## Frameworks & Tools
+## Projects
 
-- **Python**
-- **scikit-learn**
-- **PyTorch**
-- **pandas**
-- **numpy**
-- **matplotlib**
+1. Labeling in Finance: A Guide.
+2. Asset Allocation Using Machine Learning: Hierarchical Risk Parity
+3. Applications of Encoded Price Series Entropy: Forecasting Market Efficiency
+
